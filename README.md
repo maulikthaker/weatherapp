@@ -26,7 +26,7 @@ Here's How you can add more cities
 - "localhost:3000/?q=CITY,STATE|CITY,STATE|CITY,STATE"
 - eg. http://localhost:3000/?q=San_Jose,CA|Los_Angles,CA
 - The output will be a table with the default weather and the 2 added ( San Jose and LA ). 
-- Demo image is under "/public/images/Output.png" file in the repo.
+- Demo image is under "https://github.com/maulikthaker/weatherapp/blob/master/public/images/Output.png" file in the repo.
 
 
 PS : You can add as many columns as required from the API provided from weatherunderground.

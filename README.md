@@ -29,6 +29,8 @@ Here's How you can add more cities
 - Demo image is under "/public/images/Output.png" file in the repo.
 
 
+PS : You can add as many columns as required from the API provided from weatherunderground.
+
 Any questions or concerns, please contact me, this is for a very special purpose, please don't keep runing the app, since the allowed key might get expired.
 
 

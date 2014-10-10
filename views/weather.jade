@@ -1,0 +1,19 @@
+extends layout
+
+block content
+	h1 Weather for the Cities
+	table.table.table-striped
+		thead
+			tr
+				th City / State
+				th Temperature
+				th Conditions
+		tbody
+			each value in model
+				tr
+					td #{value.display_location.full}
+					td #{value.temperature_string}
+					td 
+						img(src= '#{value.icon_url}')
+			
+

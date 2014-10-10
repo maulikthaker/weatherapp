@@ -1,0 +1,26 @@
+{
+  "name": "ebay",
+  "version": "0.0.0",
+  "homepage": "https://maulikthaker.com",
+  "authors": [
+    "Maulik"
+  ],
+  "description": "Code Example for Ebay",
+  "main": "app.js",
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+     "bootstrap-sass-official": "~3.1.1",
+    "bootstrap-multiselect": "~0.9.4",
+    "jquery": "~1.9.1",
+    "jquery-ui": "~1.10.4",
+    "jqueryui-timepicker-addon": "~1.4.4"
+  }
+}

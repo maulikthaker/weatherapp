@@ -1,127 +1,291 @@
-d0cd181539b943cd6c83ef8480ee570399577f0b884d9b8b621225a3c97bc8c3df85433c00a2d743bf152d243d84c209afbbb3a3c18995ebe8039f47d88998b2d5cd60fa8898c8cd6f0556c64dcecf1bd639c8585460224f11869efec8f8771070f0cab3
-ee4ef648bf39ba06a5b62e2234532b623cda529a8cc5188f670ffc8b5f5abf1851b4f3c303442346bb55ddc311bd528d9929b48d65603ea5cad070a8fb5ad281adb692e20495a91316eec6cb5909f0a7bf2755f5d520b597cc4e29783deac894f8d04862
-204612e3add0ab71e1afa5dc38254838e63acb5f2da599c7a4e5056dd2c7c6ee81fe1b6124f1a97d48ba5c697fe825b3a838c5373964126bcf39fb098c97263a5c2d1cf2ab8e3b6f6d395700428f4d78cd1d12f45afa2a03932b61152c30652e14388280
-60c7adac4380a020ffb246b7f5a55727aee5818170d0d538c5a4fa19dabf3d5c35fc40372f0a99573a9acddf1d89397388d0c9160340a8907597554d7e455d3ecfdfcb84c6e24f99ee4ff4a95d35825377f68a959432c8fb10dafbeff5ededa2818e0dea
-09b6a404d488508e369c2138d9532bac4f3832593c1140135a3e96f8354b81af602deb92b8a57d0f3f111122a374b29f3874419593682838879bd3a13a8c4c19684e397f8bd914ed7811cfe66f455d4140243d924ad4a6435297511f842a99847b3ebc14
-1c605fb5854014bc605034dd43b5e9d526aeea1aa1ef491a9918713e0c882b77327e841fbeff721e91684f0585adac7c1700e75fbd0ad06c52715ef18aedb8107ec3b8abe57d76310a8df27fba1eede15fa44412716e77f88701ed50f3b2fce7461c1495
-3ba9c4f0a4dad67901181d6c1a7d56cfb1cef52c7201fbd52471e3810a5e96a687f3ddd7f676473eb0b27c21053d089a9fd6901da391a61aa091d6c588f04e51f56b6eed6c973ae7d63c24198d7394cfdc0e7a9d4df782c6b6d29cd3cfbf0090c6bdf15f
-623310cf4f86b56a36341757c3962e366c3ce1a68e046aa57dd3450c92bedb3d6f93dddadf91e516105f3be6c23ee5daadc5add1a5d9a82664307191d46b1af39176fcc790598275ee5ac8f2efce6e9c8e3973764633210a7d191636ef31f0fa964b8a40
-ac2b7190cc798bd3e0088736ff51c09e6f6a4f1ca4e035971dd86992cc6169df255395fa74a046b2bd5e4aac0bb59a41cad24df61b72fde5b6350eb6235efe3dbb3b969113e5a88387e1b77d4d688412c990d2f0281f4943fcbf28429ee69942ce66a8ae
-f72c6cd871afd96b8bbcb20599b532198fa0144be45e370bd19eedc2ea0fc79c28d8ebf8339842d985ac9cdb6794da6acb38bc16936c32768666e873a95befc3b9fe099a9630291d4d82e2a504882d3c005fed775d89a0009cdeb493eb9808ac8cb5772c
-7ad1aaf01a840322ab6cdd48723f7b941098b8cd01f7ab946a914704f29e5fa22c5b036d9055b1f6f211cdaf7dd4156ccc4836afe9895eb54c82583aa69353e0984d05edebac1eeac8010b7b34b213e87889f03454a061fdf4ac5e6c4c5c254bf884d3f6
-837bdd95b1ce015a05ac10b1f68e490126085ef41507fb253a7d5394813b235ad4eb1f9d37f6e89eb71e278df7ba2cbc7ee1e914a7ab76292d30cb049fb1623754d05930a9137f9c8553239b22aaed6ddfd263384ae3662545b05ec9d7e51f890734763c
-d4968b0df32c1bb9995d7aeecbbc6558f94f14474f0e6b80361aed4277a3b5da7740e9005e6be8612ea89e95d36316e825fbbf99b97e45cc64b041ee39e7c3ec6bcd430f9f18ff6323213843e00d31423ef4b4c3fdbaedb6c3f95c22436cf2a381dea51e
-154871a4dfa42dec67c1de7979f547b9cb859b746ca05ae32ecda340e1a2d25e2e8259e6909b5048a9f4770d53fa9f68258d5de3117ee7abf58d1be9ef6383195a3f08f71f339e6baa81f041d1062bf5866bef13e8105ff2f10ead6346081de219d1daa8
-62187b4457a7ee6feb02a1cce6b499ee8b2692abf0972ca3924d0cfc76512c6fa99c6ad43a8ec870e5c544018c32571fd18c04f8c8bc8561bcdd8fd854086eef201c70e5f535b0ea86a2598ff9db79c594cbd673e99388a606fb88b8b4f9f1a7572dce60
-bb270393f2c551fa750155f4d8602b13d634174913c86f9ef0a021ac76ed83edbeee813520b739e46d7e6db71caf57e99cc4318659f1c6c95df4640fa632b4729dd9a623ede4aadf9ab91948fb1bb2760a396b529c36f1940f5eacde6bdb4b4ffe57d05a
-98cc2a6d666f0ea8058f528f5213e9fb2a73ae0a006c8ef4ec29d7707690c4736ce38f0355ef0d3cff9c408db68d78e826adf33b956c11d6208ef1ed06123e4ed675a3fe05e2d58eb3c294c44fc43f8825f9e80a956c8b5b8e2a9e3cd906e52768f4f14b
-012672899cdb7f8df7649fb7184a3986a22ede0a0d7662440b06b3c03fcf478689d722317b4696fde9a8d4c746ef4850f43735bbfb0bb858e72545d29b040fd0d439e81900ed98b9240b09d0339ed0e47336d150d9c46352d636389462750c1ff0419d4f
-ff836b3870170d6da4be7c45eb70ddc430fca96875ede9ef6a3ac4c668a99b7e10e0e4e3a3527478e2b9e6bddcf177491821d6d2bc26b3f7878a79532ba994585f3ad2e05cec3a5cc396f24b332dc351933529752892a85cc2e9a061560a851561e5b31c
-a8ba6ff578f4ebe3b0c4a4a3e01e43d0136e53c4b6ea3ad38f4da5d1d691101e2947ab909bcfaab4b1d3e16642e4af50a68fb4320a2d69742107c5201d0bd2d640bf7924a159a0195b36574439c3ad7ab8a9854b01774951f199e8962570e8167a8f0f24
-d2741a4f2dd46fe90db31b17ea9a33a6fcd2236dc9aa49a4ce74e975a12975f119ceae2e83c9a9486bc4f7e357c999fdd89421c7cfa529ac46c991cfb4077075b3063e6d50ee02d533046ba6bdda0ad2e5e133e78bb83f2bce38909386a073ed793849e2
-5952551885760f3b9767831a7a2fd3e43653860482ae9e27a272facc80ba6c67d9f27be8d6a8add1f87d2d448c2687d698038a51a9ba41d913d9262f108888aed1c6b39e4368134109248eb01d80d39399d3a823df3aa14682b2c9b9446038b5ed0bda0e
-44967c11c26277c3d4c54c99af68a4ccd55088a4a4364d47acde7b305c026909e7879ef45d784b3f3df2431a34bd4eaab6466e4dd12db076ae081c8b52d17d965458d6f82fe279fe62b3ba7bb0f54e675697639bac892d5f7cbafe9c96f7b228e259800e
-70650c7dc7f2185d487f885f40c321ca664abdb687622a9683590f914d1ae7a079381bfec31f30d6e01736e32b02bcf6ad57030e0f01238cf4b1f6eef64fc55a8bc6f886a05073d6f7c3fc04a4ba5902ce8488d711b3062b6e44545f99c1839de6132f19
-323872eddae1bfa6a3bc5fcfce634bdc4da5c365d85d80d843f2971af4bf5aca305399f78fb508fc9347f803acfb6a18dd9e9f6fc1314f438574654e65de69e21b00f822bfe203dd34dfda1f77c1e9265ca6242baa3bf9ae28bbe342b6ef16de961bb238
-b7b6191128336c9f3d463e5af2d9ab2b1f29b92dcb95bf339d1a6f4937791bf54632eb4959c1f692c9bb66bb798f14156db8224cabb958d61e6912347ad90b2df77bc13ec96c8e0fedb3f4f6f34c70c16d895f3f3ef6f5a0d889355a72b137db6810a8fb
-0506ed752f78f0295b4cafaa8d69d2dee499d0444608471c5940c78932c1d8f152f0f91925eaf34453455b37126f13b6745f4648f8759d5f47b25b83aaf978b8f24be0d4d925c9349a6e2f287946c2e717c72ea42c3f11afc1e7349fe7d050080231a667
-4896d4a7326ed50c9d7152d065034acdcd8a3a4e1a3eba28206c57021cb8ef42c5d4f9f55c54ac34a7eeb39609f8954ef1d722306bf5cc3d4e92160548645f79447312dc77b01c8e8d19846c8d8e6e64a9feadad543cbe5879fd5f183c28d97b295fe5ea
-150d2134ab67c242eb64f6538d6431bec241f23c5bf0730c2300793e4fa9ed379f28c7f680b49fec81b70dbdaa478703f92643b3c8d8441aa0b6f971ed06d056cfbe6a6d836256f2029682e86ef311bb72b5b3c79c82b0bc73367096d0bc7df2ed639ae0
-5d3ebe19006796ffa690283556bda60bace8183974cac2e6da2f962908723c448a0bcb880339407480563084fd0e16c4d1ba1688a2c11435587e7138c317df1a75a44db28eea225b160d503ead546bfc029462a08718c5b0de9ab76ea575e040ef1bbe57
-62bedeffbbcdffb4f24a6c0da7d455597f2cdc85f170453052d784dafdeecdf6a625d4881aed2b8ea6d01e7d648d3cab6542e5e3b051fd392219bd776a625e9268f7721188fb649ac4b3c6b05026d5e757c8f38bc56b742e1c33d78241dcfd82fd9d8dc1
-c6e2a6249cb038e43795c1d23ba28898e0464fc022d414abd5d183ce3caafdc9711760b50db6ed2a0fc2393319add58baa79d6ed68baa6dd07fbee8106190365a923910ed23ef15b6d8dd9a8c0e5a1a5d2def6a8bce39346473a3fef2fcc040d7d2977ab
-92b1df07d0c58a3498e0c008cd40aaf59e5810c4ccc28f3bb07b52c9d49c971fff3bf8c5d03be27a953df3bd228559151cf14ffc326c087ac4434b425b769ebf22adf287d1249f70c08020e42be7aaa05ec9f2bcb09e71bcfe6a2f93ad675a388062c694
-421d0dc94c046a73ce3e0b5a3b50d3b12cd76c7615f0ddb3aa395137c8419b2d4e8db8201233ecf1c8e2c1908665a56e7a95eff4ccda455743911c5506825e9857f014ddedc65c0d5fc2922a422aff38987c7585c2fddd5403f5eac0a7f43d05d36c852b
-67acc97df4efc48b91b2cc77668aaa90d1a854154a7ed7217cbd3cf1f02fe7587ee9ea3ad86a9eeaa9011a6c95cf021f6dff611b3309d0208117ff3b2f47713aa2ac8863923ea4fce51523fc5f3c010e9262927bbd378f4e809df856b28c4e0d8cf079d2
-f0a491b299a689e438cc8f4cc6f774941d5cae985e5cffab9ce0bcea9e0bd9f74608224b79ce5e88f5c457bafed5782be186945f42869c5c2235be2bfde3946775c299fb0b3441729b0def6423491e53aacc4febe020c058bd47266bd812a05b20994ade
-3d4dc50e808acf6416cfd73a6a162fcd91031f13dd4683b172dcb28068fe7c33bdfdb322c2cbf58e7e0a8fbfba1d47cd577f3379ae0c33ee0210792117a4540759bba8a899f6624e73958a745ed6a4108dd1ce16c61db12d2ecc9c1073e322e4debded99
-b71815fe0925ee498cf9fa254922d2f5a699be111b7e6b51b3991d90164afbb786c730f247ae691ecb04f085a263e2994883a7d33f2e2a257ec7327de73c01dfdcb53fd91d21eafbd6628e496957a460ae9c8030aac17b833adecda04e802ee8fafcbecf
-98acbbf5680c954a37f6222fb71b58c0979d72f60bff9e1e378073c7bb8339727269a0e283bedd90a9e952dc0412b80b4894bd6ce93018f3ebb1be700a60fff45561dc0564035e85cac28ad1f63ac8e7649ae7568bee448556447970b6ca9776dfdad378
-e6492b9fbb0a1555bd71cda8fcf7400ba7a5ad0262904691523b6c0f93404aa2bb843f048906b99b33fac55a640bb6a3c90104914f7a94aa1bf0614fefd0b5211e80dff26aee96f4d2b5077d05456f4f67a378d8803d249e994ff05488c3f86694fd4e4d
-4b3aca9dc7b2608f4cd080dc66dadbaab8dc2aac82a1e662f0d6b9c98e95a729f1a7b478c066819613780c998482c8c38ebf2657cd4e89957b5eda474290832804d24b360b54db895100c0afd58d660386a472ef46a098f601cb5fadbbafd5cd16a1f86e
-03b3b0d2afb2220b3634fea3b7a214d7b5178cc560c1c7c3ebb1408464c1a24dce27417179c88c217af30d964dbd1960a33189933423dca48966951242badd172b980b3b3187090d7509786aea69dc6fa31df904f6e771556c5ba901ef92a3f92c36372c
-fd227dc138c62131073b15099ebddc42008a0562d091a61edf0c49c0cf7a9e0d619f5e27a35a423f09cbfb93ac5b309fea9c18dfd92fde2822200a9a49aa09c7e781eb895a5a2f9ad4dc11a395345670c08b3ae2b02e4aab110c235d6ffa3da7e4ae321d
-5758d02242966e64093f6581b3fdef78b4252315e4b26caef842233a6e8ed707eaab7ebed771a202b7c8fcb6a93fbc0aa5945ed0bbdfdc80de53d9e31b28ac999997de0ca0b08863f6eb07355d2c7d542ec6e4d1e50bdba08f3c23a55d654d92c61394e6
-5d78334cfa8490baccdd605f0a4b94cf146e10bdcdcb986f943c84f787efc3204758ac5062b79d396bbd2cbec33cfe28a8b44436922863bd1e01e92ad16fdf809433eb48ce753249367dcca78f597efacd5fb5a3c03b616c152cfe6f910fd7ff655920ea
-5370e61076f37f1273dcb60e45337923305c75395fb19b60a6631e3c8e8ec16e678988c86a88d29a004d05bdb6cf8156bf185360ddb3ddf836cdfa15743a1013899e577dcf12d402e1aa96484c688522dc26b13edab478546a25f557880cf3872e159638
-ee8b177c5180f7dddfa9981a745dfc61d8b838cfb72009e52e0212401b84dd9fefb2e26ca0f52e1d852c1f19a91dc4ee85ebb6d815bcf27edbba0d82c70e34c72a544f79ca9e83beca32d12eed08afc66398df6c28306a73034f8aee0b4d66e5b0a603d0
-ecb935eeead33852595fded86562c2c35cecd9d17deb79fb3fe65d9372d50dd2157f918ea5e0c9bdbeb7c5da313376ca9140419ff5675d6adea9134fd2ccbc6b6f497f1d1eaf1edd41ad77ff887bd4640c60f5677fb8945b55924392e345a02533167749
-d4daff48b2d4c626d16b5dbb980db231ef341a86867a55a7840b0910d33f173463986b80fc1245556c9c9ed94110ba00786f65a885477c791deaf8b95ff6a7bbd4961f4594df51ee2813b6ce123b0620bb6f761b12e94c61e1054c0c3e63ac09591ef6db
-c1380efd51e0b675bd6e537b9276bf8077959af9457784d95f14b7ddc617aa3bf0df9e4fc72148edc364390954ba812b7b7c066f48e608fd48c8a71d4b1fef47e6ca0dc2ed49845f2776ba16c750958fe0c785b14a3da49a149015dde1524dfecfd2820b
-ec8ca30c8f3efb2761e91b015794964a267daff38f1efcf1de2f19f5706489c281db0bafb49444ddd6ea763fca0db7feec40f5f93b07039bfeae81442aa84e3f6df83a627a2567e3cd2bdc6d9b00d85114bac0689091af2fdfcc3ebf12abe47cea8732fa
-ee8d352c0ec97f13cc82ab29d386dc0b4154798ab51fb06bfd27731dd3bc0b6f102fa5024a7f8f34a158efda9c03dcd39b315c0d9545a6605808e818e11d924a4be099d70adcd3e6bd0bf927b81d25e76ad844811361e177cce90c70f1de5993f8033616
-f2b87a54c2bd942004dabcb5dd4f66f4e1a844b6cf59b7c6db8132dc2832116b8e94b9b2ecb11dcff845d364273d38d321cc941805723bbce194a27a120d88285879a331c591e25539b050dfd5bdd6968dc0e91688a30630b0fb065767eb18684876b13c
-ef9a5df6c52ff1337b3755b29cf5ef7df977b7ba8c974cb1ff79eae58af04ad766e91679ebb183fd7f4e63bf466779d08c834b4eee07b876289c6bbf614c0dc4eecab47076f2a5eda6ddd5dcc626840690a20e94ad1229ee57e1909f9a144263e8c6ca57
-59b1c918cd6f35da2b662ada8c755266ebed5d0e0a6b11e8e76205284ad33a2bc6177ad9b9d3facbbd106c00050405f2604d21ebfa33865ab7ee42194cd3298076a4a9b7f89ed65d7cea65d893a00999b6d412c680910c33753a802abea4f85b17c26056
-a6abdbe7c5a30bc775c200660e0c8c418d710db1ba8a33bfbd67254fbb3146c01c4a85e7f8485c279c7571b3c0b6d8fb4a7227036e3dde06900a2b56d5bec74e3646a0d5538478545c36160626394891f0486eb4f9ff127f9ac7228ecb22781a0a562983
-2a74bc1f673cec9a46f40fd6a36e8ce5429e6c117d0f3be275018856d82f86b6a8faf8ade0c6cf4ba2aca4084b061ad06f80c02baa4055cf72c59c924c80334b877df0822ee6b9f4967c58ab8084021288d24917052a3a36cdff5d214a24319d34dd02af
-7dc744641cd52ead36e28684bb76243e763251ba2bc01e28137b1f30f5932f728dddfcaea3c21ffe28d7d1e29494f08d94439ca45fb19bc30c346782493fe07ffef12b0f07cca2372e72ecd1f06849157af60440cfba3b33013f7e2c38cda16277f71d06
-be91fa5344b6727111d8151c0f318159573ae77b5791a9deaf54eb285c0fc9f892d9c3782fbcca404edc64b0e4acf7ff7738eb7a4c0931e46a3b1db6dbfd4151d11dba5c18194a839c50462229e7f2c9983907e454e0581b648c4255fa32209f7f62ee3d
-966050b00bff49283220c65571e2346c11c938386a95da5b6988cabe535967028985adae7155055d01897206bb2b0fdbb5f4f42a039a2b9fd581388feba116df518a88e18f9d8a68c16ab45368d3f1493e9f9905513962026afc2f9ba6d1aca46c212227
-fcde36aac085cc8eddd87a5ba529b6d21423d7a942a9674ab946830768beceac51bda9289dd7a347c20f5d5c02c67f5d9c223ad5e3242889162a2ff04a9c320953a26d703255c6ff1f0c4812be2cc3c50058c4844fde90f1c98e6e2a91f09d693de57fce
-36d1f72facfc153ef616b2112b586389cc0aaac6f26e64ef3bb5b139d61d449c1d0939dfffd845d3336bb6bf372011e9b71d54c8591c7f6f16faf08734cc0bffe8928d38ca9b233bf3d279f7fb04dd421ec5a5f0e656593ce4d34b55eacef78f1bbb605e
-6835751a74cf7157530eaa8492f98aa8a98b56231c279b8577227ce1cab7a012f5b94f42b5262689ac8453f9ba61e589c74c54fba55aa11d466a59ab49e7e09817969749ce8e5f68fd4b047d7c3492eba091bb2d537bcdae6e2aed704a17bda5f138fef5
-ba66ea7209b5789f4b1c1488620735a4244ae4dc8cb091c81daced6dbcedb07d8ff5adeff29020e3034dc586d4ef908927cf7a1e67335768b1de95fab25eead1cc04f2fa9f8dacb663dc7cbf0dbd4f00c310565d82a8a9ef31c44444d1492ec308d2bd55
-b43de088849f572bf342b0fc9625ec8088754228669de32a5f155f3b093d67526e22b6a3e9f62cbdd17b6aaa6449d9eafee2d08e67ef472a2529d801ff6202fbc3a83ae8dd92d6a26f067e87bd23ede5482a3fc86de76852e12298e74d79842b6c8d81ef
-d4665b0af8206151fb4991bd85995ed7f3e151fe263ed309e8a0725ece42d27a2d0ad8fcb0b1a7124fbccdc8b4d2929355f7e99143577c27070295088379958808b3b877013ce902ab1e1208ac5e0a6aec80c86a44d21bdba20ca91b9677a1018da159b3
-d9e20f52098f317c4ccdd6ef8cd03754375cee3bb3952e2fa1356e48b20429d4c5c2f0d1efcde99b11439bc549f86120a9fe8717e7ec19de14494aca43a730f17ee04ee1d0819f5f2610d300211b389d459283d1d86d3ae45e8122a723516a0bdbaa2c65
-be327438227d7631224284a7a5d2641876688da4153136eb8ce5e1ad33392bea57f5a12f98751270732bf7f620c9b0e4d87117e444c06ebfce827bf3a92596c0426408b3c01ee86e767d8cb948b44cb801d18b296ef54a3ec22f3897bd876a7949f4003d
-42a1d0070a70bf05935bf22ea99ffbdd2fcdd850cb4b2db853cffa962ec3d76086906f9c64908976d86c1e1ca225f99db03a0c19a8e88af70c757449d7e9f1eb9c0aa1fe35dac8009504c3daf4d9ae15f2225b9fd40e81dbc787497cd760c8928c593b0e
-d918453738d33ae3f2809c19ca12d6b0b50585425727f5976a269eb753f750548b04964c39e803ae9e2a51c44317855a3c0e43042c1061f4a7f3924d1ff0c24ae5a26addc3c50293263910cfe232982283ff6067b065d70e5a4e4fb8473387cc6a154cec
-da9fbef6fc2441e21673b5c5a8b2679bdbcb6981ebc96f0cfe2df008118a452d75035ec5b0d59d7d13fb9a2b50c053f0247a375aab379852f4f83ad2c19f93c1add0dd5371a4d8c1e0638a48f13c3e4cce86413bb5034f78a6dc6633d41b6389beb9dbce
-7287e27cecb28ef94af850dfb0653223dd27e5fdd01d3e3c47d2a217ae900822ed1133fab6b021fe5b3de78a1fa373c52a9dfbe631227f26eeb25102856fca4348b504eb23c15255d5a7b873e9fba7a792881c22e00e96da309acf709725bba6bfe61d4d
-6d31b93c5cd4eee6c374891e5f6ccc42e2eda27742dbf69327fd63343211690eef02ad5a14ac9935bdab51195569701f81cb683830de62a4e5723215b8f11f1625f8e3209805220c7842570ed13fd78191ce6d8e854a49e91f6f7c57bf06af485e7cb0a7
-9ae4ed73d9b2328e8806e9c1aedc7127372174326e839a494b1dc85bf5e5a00eb5908750fe3b4276cb3def518174211536001783f8f8ad0731e8db668341c079bdc965461fba583d44c380f82cfa1211ff78513e26e532e0c90dbdd69101b0669a4a6363
-e9888c0039c3ce940b3944488c9aa9c248847c57963934054d1d169c22cb410532f0a2c060d588b4252d12dac363bfc6a24c2c9d2b1873df84137bd2a31b35053ba743eb9ae7636f31a9a2913a4e5a308301380f9fcaef789a2844bb503e9cecb0bf9d41
-f35269f4bf410fe356b3e4815f77507bba9b24d19e60bde719510148a1746846bf7526fdcd4c6173e3329def36761ae3b8617f79fdb3737a6d394603b5d47da0a8729eb4fe00922eb85cacbefdd740ef928c62263a6e833297f4280b14b1dce7caac0039
-e20d809a3261dc385ab76d19f91432c0bcfe7eb1dc6be34e4f1f46022e3cd82b74f5c435f3f98f7a18fa01180139cccad9d7f3b75b32d812d83a2036293017557a7a5b7e31e7cefb9b7182bf0071a12b7f10db9ff7b8c58a1322a94543e95982cfeec575
-b30ecf223990a9271505c57542ffcf58ff6567c10d7c0427add1a72af8308b171942e8911539cd5f77ca943bef3f4aa75847032ed987dde9a188be40a8b9fd9b4b78b9aed6879571d2c080b448e9309b1e21142045b93b8da5cf81a4052c012f1a56c0f2
-1ee063ef76a8c02153a5c4ffe21444574bd321521d9d39db046a0e6a75594e1ffe583b4ce2e7aceb695727f29bd4e466e249883ff863e221616337ad0befd72c6703447fac67ba27bef66b025db6f6425713a5eca50b54e319c05d2b80279ae770cde9b5
-220d4fb760912d7ff78b0b7d4215eb3552d26425b408edc98b989e7b106d7bae038d03e570b3b96d0753f4aaed0b25ce3fff441d92c1cc9fe97a5b10f08f6696a22a72fb72eba1fc80a6540aa0780c75658ae996bbbe86fca29825316c732d08c4a64e08
-380c8fab0226855c3b2c94cd4caf2f1b9f06214e3370e9e4a64d73b5e151082c638b0b7032b062eb969aec32a137a10621a4d0cc81771a98d2ba2dc6a208fe8457caaaa2508ecc3f4faaf0afda032d09e5ed68b015e1b774b73e55f537d1f4a80f200e11
-160ce27b2f3b091981a2aded604d05a56269d051c239382495ef486b4d7e514afdff3bba740e7768ae343b8d188043879f324aa747e904cfebd934671bf03f81ff09aa23489330afff685a08ba62bc034aa8d39c56ba19c604a50db84e7fd79139701c44
-04244e185e6163c6990d95dc7c7f61ab7af945c87d9eb2be7a137b48dbce451c53d352c1ba5ec6b4bead02bb5a3f5d5938b9cba19e3f6be02758cc4e4ab4cc1cc9bfe31653a69a18021f4ab963a47276a8f2ccad736ffdbee1372a21204ddd300e05e48b
-6e7931815056ec01c98342c38444271b45373c83d407f327f49471b5fd190999664cc43f90041cbea47f055dbdfa1ad52f3f9d23a0f601936a44c38d75c1f4c430937c305dac08fdfaf0a1a5a47dc314c5c804d2719328e0151d266d0b2a4a476bcf7276
-c37d9af99d9aafa609444dc87e1c6edc49abfd2ef20e3df0b9d0f65dce594999b9ea041cbb9a1ee17237ce9f4194130244d60f8bc1fe187ebfe4768ab38e81cb138d55d9a246373ccebb380baa694a0167f1f7a85161fb9d35530ea68c0fa01a81dd957b
-f0a5fc0aa51041d964f2bc0393c2e27b2fd3824366e7328403b8dfe7a6567342f8db3b86c4033f859ea82f275887a48a8bd0dc1936cc178cc66792e0cd0114c07b56ac0e657f1f864e46c8503f632b510d4326cfa0c30d1359e8c5f4733fb0bef7d64ac6
-a362eabbd220052d56c4dea96a91b44a0645232503395b10e8ea68a52de99ef4975b4f6ea65265ec4992904cc17b20548ee3586b7ef627216ea81e67b8b80313d140ef015b38f961a623ce2e3335b9ebe07382684adc249b40c48201e095181af62b4a88
-fb6f8e8c574be74434d593dbf7a07b4016d802361cd5945523eb2c98e889f87e59d46bb984279c2f6ab33051f58f56868c7f4d38671fc8784c0411a382e4970052b27c52579318622dd73a9751d9ce97c38ce876d97ea5c50b797dc3a16145cfc2d8f921
-46da1ab806874487a8cb5fb8e985ccedb74e738c858f8c15f08250bc1881ac06150f3e9fec18e7079f6e781caa462a539450d7ce8c295ef6525041ff0c9d22adf133ca5e45dad135385f46efbf493253d8b66624ae11df65361f53e1103216587b21ebd4
-a4bd4a7da8f8c62a491b0f13674332c23303078553dc58affcaed6cd02e9e194946c307634ee967ee0126a20e5b42f7f39202c80e4bf94542a6942e6987ce82e2a3ecf16e85070430f8415e378e421e822f1b37238b1a5866bfaed8efc91ad50043adf3c
-6ad3bbb874eb3ef5c72b3464e6b10301f082631d2229ea22ab030923bcbb22a84f4faf1e8fb0ca841af7655a0c59a769384dad67f4f3883c6e064129a931372f1583a582ee71a6deb6ae8ad29cfd389dd28c6316c320ceb08480cca8ca984433fe90770a
-cc6285540c2fa3324985cdf341a8c9cda9bb83f947f51e962e379b9430b36d239b50f60f88828722964433437fbd6de590966cf5adc9a3faada5b7911a714e422b59a1c45e6fe3d816c197820310c07d550a5e2fa43c71fccf504c96b6c8432e436f395a
-8febc1e1530f7fd7f2d73a0374348050b50708bb05c6c462b0153dc3389c1b4c22651abe13030f6f9dc4ab4349f029816baef83fcf34e02e19a13c7722b46cea6b6d45ca80a20ff63c71d47b373a5435a816acdfa3b0bd42ad2f5a3fbbb34f9d42ebca57
-de3caed674258c37f637b33237e3c69cf6f48668ecd817fcbe9c92095966f0d189ff73db732bf5d5be4f478813f6c4da7b40ef8e79cc186f67fe55c8292d80c54f71462f6b30a172459ec6e3f370698415e5937117bafd60977d05768022cea287bf6aa2
-5b4503de5982485de4adc542946f9875a4faffe82de83934345434ef924a2ba0ca8ca07b18f35f703fcf62dbccf9115364585f13a997c2e1f935a9441ee85220067b5d545768e0c819d78859088196d9577004a16e1c68f416f7fea98a69b991e05adedc
-ba46b943205230e8b204a89f1039dd50a9715a5208f6e8c2501b1ab8b53209d59e682c4daf97a99cbd5391273b3e5a14305fac5547a7329b878bb8e196b4a314ee2260b56a10ae41fbfc0690712d77be09b6898e9a93aa6c47c861f9b46f342f60b65b48
-dad092056fa6acb5eeb8fb61aac793bf78e55e393d972acc6f5b553c4323c438113d0c25d9600c99647010a779d1fc7a62192581bf1ecf7d1699ece38fa50671029d0aa40bc7151178f50c04e52ead1f8cf93c106c91c63501a9b005a626ce80e37114ef
-17d0cc8882a122bebc8845e5c8c61c814c676f89abb5c82630982f7153daab0704bba0cc7268ded9e4a211e224e8b6a6c7e6a5aba1f5cc9ab9766c9a97184066530666173c326eadbcba1eafb6f7d179eabf30490f88b05bd8f326102353196cef626084
-4efc18b629e7203141e77cae7b081085af0f85568af9dba8b799000961a2bd58705f4b9fd763946ff468deca8cb5bb91d68903185d08e78d2f4de591c94ceebdda1da2c29c6d479203456f75c4ec520810c47261d8bdc6a204046015d0d95be38cfb8123
-37cc9f40c1b33e4cb750fcadda42daf531fbcb5862cfde38d4e2973176e2c0a3a663566cc7a66ddb388e790354034a5134d0552819897bfcb8b2159baa56c61e10407e474f837ba56c5a6bcf211bec6273aa3678524d2c921f0d207f0c393d46528ae114
-e09dad8cb64a5b8410f67be352b0d6b1e462bfaf37351f13ac4abf5739a767c7f43fe895b392c1eca199cbc73c4267e80203f53d1d252887fd5053f7a6c1b28d1cb428be82fbb0ddcda51845edebd25007c7eb665773ec010d23793c07746493020b9216
-738f70709e3d650fba74f1bb25298be380f6895857c5eacfca0a7289f269ad9a3ee7fbe06e85edc8e4788b13959fd4efe58462588c3a1a35f0319b4cd31ecced6ce118f75bef24595db0520e31288b03e09a6c96fd365ffeffe3fbe1cb3a865b5c37f222
-24b812800ecc231fb3cccac846c010e2a541f114279272ab278f54f1b43499f8f544df57fbe5ec900429afee7e13ea35a2b780bc8c1b8ab6a4b3881ec3173b033e82fd0ff1d9cb243e750d1a30077342fcd4936ed1c2fd598925016bd39f7d6b9ebcb1b8
-dfb8f7656aeec0e80c3e0721966b802c35a097c9a1f56151ca7e401edf27c1fea96118c7a497b2e80acc7740d0915dcc59befbf874344d4961382dcdb11daecda006faaeaef9e39d763b0902cfe1ac2f65c3202487de9c57411b38f9827a94e7093c13ca
-238ba68b992127942078118bfb61ba29ab96e0ab0176a1dd78fa4844c68dcc5de7b43d6df59517ba723c1066853592638301e2013c2e43423f3572f9be091e8cc49278bfe73a9849279186aa824b8b738377ebf84777f91b63541ea729566ce3cb031fcf
-d3bb7b195a0119492541fd67b0320d03f7d0fa339f85b37752e508cdf5b5c239e609738908a2c5f363eabd01d41ce122a13b393583cc9118195cce7fb7aa7e3019dfe457ccd8706051c3b6efb1cc1c4e0d6c75d71f30574c38fbef8b51d671e3c11e747e
-ef04d48f3feb61c066fa82e4e8c0e6e4aed472ab629754827e9ae862c20f09ca889f8298eec928f7d7afca72cbe04a58790a0b1fd4c02bb3705b3181c59b97931563e75b4fafde4db92d4e0d03b84af5830fcc3141c2504660428c176672d7a2e8732260
-64af8e128a21bf23690f709be382454a3ec28f2037ccc45ac879681375e1fb5ef03ebd1abb97ffaa1ab5aa28439d21b43dd780bc67c53eaa32ee17154795f1eedd5d9e52bc7592b18341a831c0cd5c2831429ed050af18af92186251ba4ef7d3f53f13d5
-abb0ad7d8fb731f736374fc8ba69d99a4632f983a323910ac6b478196b07c7f8184f2412dcf286d155eda668eca12a1e697c92f54b162cc2c4957ab2978a878a19695727d74781324521113f9c77bb3c477dac19328d6eb2544f17ede020f20b0f51ac7c
-4e0a5b806eb58bf0d7377e9892424a2fde7b5298db4966c126eb060129ce73bd4e34c96ce0abe9afe9acf285dc32288293d7a8b8d7c358e869e1c08b5db6c8c547684603b41941855baaa7fc546f6e3c52d3bb713ba8f8752a29bebdf96d3e4edb28c44d
-9d83a1049e692c10397328a3019194a55e4a8264929f5fdd7c5776459f0c38ebc20d33c0a0e3da705b8680ff7dc19e17aeef94320665752b7292b3f84aadca51359a6bb778ccfb8653b4a70437b40b50e19b20383667faf441bc15a4bcd9613a9f844e22
-582116571a50fc12602aa193cd1c1e4e6453548cb8722b893055857bfdc726556779eba0e07b877f474da2177508ee3ad4dc080de88ef496554de0df65a67ab28117d9612c8316fa442061d4bd35575c94b3b44dc105e34d597b737349a083a9fa001679
-92196b8d8e0f60ba4e1aa9b39d8e69cd3875bf39f0c4dafc784869f955e97f89a17a1c9b6f15160a417adb30aefe867c4a006b1ad38f8ed0cb244e36a9ba601a9bd4ca885ab56006a85ee00dba80257e5b8de8eb604056eb9f025e9a73b411358f925aab
-ebdb22bccc2653b2028a2d24255cc8b52e86013f0b049ffac89f79f6206331ad0008d493800604252f2c81846a146a11051802ac77ff6185c9f49bbb2120b7fa7d25ed2a486416b19671022e0141f741ee2ed8d1aa1db942c37a29ce91372f8dd847db70
-1125bd936859eb17139e08e6716dcefb1126a3fc193d795fa3ca320749767ff0b4e8a6544a690b8fe9a227afb07f319707160cb782ad7ffddb104d15b2d35a6995c8bcf195ae79089086781c2a3ca20f7b2ec80acdf6dca7065abb740af58f52cfcd8d5f
-af6809a491047f41992f553eca4113a99ce7da3bdb02d110004028a846cef3845f1be3e1581600139e664cafb1ed24a2c890883bda91dcbc3197cdeb50608d4f7ab7c418bee744b3ceceb6c7fbe52f457dab562915c7bf146a5a45ab9753dce23bf9fdc4
-2c5dbc4f71efc45da61f98a2a6a88b500a69a71debf79b4ef0eca790f49f39b07a58dd823468377deb7a84b58da16b2141d8b8ab9159a370b0282f893371a800ec33d63344de5c9c4d34dcc480f1929fa55523eba5b9a69bb4674c5f45674201f3c89989
-d09bd396c475f208d434222fa885957919785a4acc13a4fda1ccbcc0ad505c0fbd1dc27e786e6db3b377a4c58cd6c760aa425faf4eed7a43a450eaa97f6872698d233d2893cd61e6128b12e64eeea9ece18e2905c87c0b7860969c7c9392486d92bd0a42
-61649f96efa869943196dfd94121ff0c58ab8830d02beb7c359ab0edb11c5f91733dd53890d32dce2f21a479cf158cddbc49f3320a3f6280e8c3b94b89054c38470cd8136e04d81314ec7b4d703c1b9479288cfecae4df07c40dd0ca23a68b91cf957627
-88a4158f6a5525999dd7c86b384f3ea71f461d613bb32810648a82adf24210cb1ee8842e468a11c247325b0aecc67c98c863ad463c07aa0b033ee2f97b3196bd134c2caedc75f754581946ea9f84ea1da6870b9dde5c7bd82ace0897f958cd2ced60afe0
-dc6d4b40ef8558461a1d06b490d7fb9d3860df465243ac461b3427e5fd68b6ba4b61936e220f234d6049490238b75214c1d2972866e9698be2b0bdc56f8002625c74b28eb995e6535efa425712a7b128ed1dfcbb1da19f07f0c3485b5e5d49c277c28e24
-77ce09124c5d7df920e8f4684bd46a83005d7dd43192c68b236be4b0c5cc1f4065db75fac3a364cdde4245f76c13db5c4411e407596985d7d52985f744ac4a67014380c04a59731c8f189eac04bf119ea7c2b1b31a5f83c3fbc11f7bf719382526e3f4e7
-eed299c71ba4fc3298ce61a40e8881ef5d9f8571a32160a5194f9241b936c15de37e483a9d69153b1ea40c7f8a9c9cc9afe2d1e297546069faf75a3018ce3e6066a6aac47ce2bac92c8088adc02265bb6710a632bc23b79fe6381967ba07ca87ad9c9025
-f42c3fcfcf94964f4ecaec3b6180560867eefc8de18a5bd63c5a8d6c8ada6237425a4b9ac349de49407d048a35b358d805e1a839f429d56a40d0dcbcf8b2c3aa51431d2b2be3b8101ec061f4bc04058497649e3910354103a9b0c95f5b7c8389bc237a76
-fae8ea1974a175789d34f000b12d0f1be3ce50aef48d4484e4743c6654969825a7456749dfcd13fb52ffca0f1438bf72532709725792b887c73d90f05753ec2d04032210bb96cf01a7f8830d18c89b5e766a51c721d39dadee3903a484e3fc2f11d67e24
-4a4154e02c77d45f08e325ca217d7eead04c010f1526e2681ddf8118cdd75586a6ccfad2c97f70acc72b8f038d14c727433e15b94780e5e61e26c9f61057ad2a1ce94e8ab963d38266b55a97881370ee4048a7576ae66f00e51dd66478d115d64df1009f
-a5f5a8449da832bab8b736756f2b0650f306016aa620fcad87515b8447efb8b43a3e1dd9694394cb975b9ade80d23183f5f1ed4d9d208855
+//
+// Exercise Details:
+// Build an amortization schedule program using Java.
+//
+// The program should prompt the user for
+// the amount he or she is borrowing,
+// the annual percentage rate used to repay the loan,
+// the term, in years, over which the loan is repaid.
+//
+// The output should include:
+// The first column identifies the payment number.
+// The second column contains the amount of the payment.
+// The third column shows the amount paid to interest.
+// The fourth column has the current balance. The total
+// payment amount and the interest paid fields.
+//
+// Use appropriate variable names and comments. You choose how to
+// display the output (i.e. Web, console).
+// Amortization Formula
+// This will get you your monthly payment. Will need to update to
+// Java.
+// M = P * (J / (1 - (Math.pow(1/(1 + J), N))));
+//
+// Where:
+// P = Principal
+// I = Interest
+// J = Monthly Interest in decimal form: I / (12 * 100)
+// N = Number of months of loan
+// M = Monthly Payment Amount
+//
+// To create the amortization table, create a loop in your program and
+// follow these steps:
+// 1. Calculate H = P x J, this is your current monthly interest
+// 2. Calculate C = M - H, this is your monthly payment minus your
+// monthly interest, so it is the amount of principal you pay for that
+// month
+// 3. Calculate Q = P - C, this is the new balance of your
+// principal of your loan.
+// 4. Set P equal to Q and go back to Step 1: You thusly loop
+// around until the value Q (and hence P) goes to zero.//
+
+package helloworld;
+import java.io.Console;
+import java.lang.Math;
+import java.io.InputStreamReader;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.lang.NumberFormatException;
+import java.util.IllegalFormatException;
+import java.lang.IllegalArgumentException;
+public class HelloWorld 
+{
+    private static Console console = System.console();
+    private long amountBorrowed = 0; // in cents
+    private double apr = 0d;
+    private int initialTermMonths = 0;
+    private final double monthlyInterestDivisor = 12d * 100d;
+    private double monthlyInterest = 0d;
+    private long monthlyPaymentAmount = 0; // in cents
+    private static final double[] borrowAmountRange = new double[] {0.01d, 1000000000000d};
+    private static final double[] aprRange = new double[] {0.000001d, 100d};
+    private static final int[] termRange = new int[] {1, 1000000};
+    private long calculateMonthlyPayment() {
+        // M = P * (J / (1 - (Math.pow(1/(1 + J), N))));
+        //
+        // Where:
+        // P = Principal
+        // I = Interest
+        // J = Monthly Interest in decimal form: I / (12 * 100)
+        // N = Number of months of loan
+        // M = Monthly Payment Amount
+        //
+        // calculate J
+        monthlyInterest = apr / monthlyInterestDivisor;
+        // this is 1 / (1 + J)
+        double tmp = Math.pow(1d + monthlyInterest, -1);
+        // this is Math.pow(1/(1 + J), N)
+        tmp = Math.pow(tmp, initialTermMonths);
+        // this is 1 / (1 - (Math.pow(1/(1 + J), N))))
+        tmp = Math.pow(1d - tmp, -1);
+        // M = P * (J / (1 - (Math.pow(1/(1 + J), N))));
+        double rc = amountBorrowed * monthlyInterest * tmp;
+        return Math.round(rc);
+    }
+    // The output should include:
+    // The first column identifies the payment number.
+    // The second column contains the amount of the payment.
+    // The third column shows the amount paid to interest.// The fourth column has the current balance. The total
+    // payment amount and the interest paid fields.
+    public void outputAmortizationSchedule() {
+        //
+        // To create the amortization table, create a loop in your
+        // program and follow these steps:
+        // 1. Calculate H = P x J, this is your current
+        // monthly interest
+        // 2. Calculate C = M - H, this is your monthly
+        // payment minus your monthly interest, so it is the amount of principal
+        // you pay for that month
+        // 3. Calculate Q = P - C, this is the new balance of
+        // your principal of your loan.
+        // 4. Set P equal to Q and go back to Step 1: You
+        // thusly loop around until the value Q (and hence P) goes to zero.
+        //
+        String formatString =  "%1$-20s%2$-20s%3$-20s%4$-20s%5$-20s%6$-20s\n";
+        printf(formatString,"PaymentNumber", "PaymentAmount", "PaymentInterest", "CurrentBalance", "TotalPayments","TotalInterestPaid");
+        long balance = amountBorrowed;
+        int paymentNumber = 0;
+        long totalPayments = 0;
+        long totalInterestPaid = 0;
+        // output is in dollars
+        formatString = "%1$-20d%2$-20.2f%3$-20.2f%4$-20.2f%5$-20.2f%6$-20.2f\n";
+        printf(formatString, paymentNumber++, 0d, 0d,((double) amountBorrowed) / 100d, ((double) totalPayments) / 100d,((double) totalInterestPaid) / 100d);
+        final int maxNumberOfPayments = initialTermMonths + 1;
+        while ((balance > 0) && (paymentNumber <= maxNumberOfPayments)) {
+            // Calculate H = P x J, this is your current monthly
+            // interest
+            long curMonthlyInterest = Math.round(((double)
+            balance) * monthlyInterest);
+            // the amount required to payoff the loan
+            long curPayoffAmount = balance + curMonthlyInterest;
+            // the amount to payoff the remaining balance may be
+            // less than the calculated monthlyPaymentAmount
+            long curMonthlyPaymentAmount =
+            Math.min(monthlyPaymentAmount, curPayoffAmount);
+            // it's possible that the calculated
+            // monthlyPaymentAmount is 0,
+            // or the monthly payment only covers the interest
+            // payment - i.e. no principal
+            // so the last payment needs to payoff the loan
+            if ((paymentNumber == maxNumberOfPayments) && ((curMonthlyPaymentAmount == 0) || (curMonthlyPaymentAmount == curMonthlyInterest))) {
+                curMonthlyPaymentAmount = curPayoffAmount;
+            }
+            // Calculate C = M - H, this is your monthly payment
+            // minus your monthly interest,
+            // so it is the amount of principal you pay for that
+            // month
+            long curMonthlyPrincipalPaid =  curMonthlyPaymentAmount - curMonthlyInterest;
+            // Calculate Q = P - C, this is the new balance of
+            // your principal of your loan.
+            long curBalance = balance - curMonthlyPrincipalPaid;
+            totalPayments += curMonthlyPaymentAmount;
+            totalInterestPaid += curMonthlyInterest;
+            // output is in dollars
+            printf(formatString, paymentNumber++, ((double) curMonthlyPaymentAmount) /   100d, ((double) curMonthlyInterest) / 100d,  ((double) curBalance) / 100d, ((double) totalPayments) / 100d,
+            ((double) totalInterestPaid) / 100d);
+            // Set P equal to Q and go back to Step 1: You thusly
+            // loop around until the value Q (and hence P) goes to zero.
+            balance = curBalance;
+        }
+    }
+    public HelloWorld(double amount, double interestRate, int years) throws IllegalArgumentException {
+        if ((isValidBorrowAmount(amount) == false) ||  (isValidAPRValue(interestRate) == false) ||  (isValidTerm(years) == false)) { 
+            throw new IllegalArgumentException();
+        }
+
+        amountBorrowed = Math.round(amount * 100);
+        apr = interestRate;
+        initialTermMonths = years * 12;
+        monthlyPaymentAmount = calculateMonthlyPayment();
+        // the following shouldn't happen with the available valid
+        // ranges
+        // for borrow amount, apr, and term; however, without range
+        // validation,
+        // monthlyPaymentAmount as calculated by    calculateMonthlyPayment()
+        // may yield incorrect values with extreme input values
+        if (monthlyPaymentAmount > amountBorrowed) {
+            throw new IllegalArgumentException();
+        }
+    }
+    public static boolean isValidBorrowAmount(double amount) {
+        double range[] = getBorrowAmountRange();
+        return ((range[0] <= amount) && (amount <= range[1]));
+    }
+    public static boolean isValidAPRValue(double rate) {
+        double range[] = getAPRRange();
+        return ((range[0] <= rate) && (rate <= range[1]));
+    }
+    public static boolean isValidTerm(int years) {
+        int range[] = getTermRange();
+        return ((range[0] <= years) && (years <= range[1]));
+    }
+    public static final double[] getBorrowAmountRange() {
+        return borrowAmountRange;
+    }
+    public static final double[] getAPRRange() {
+        return aprRange;
+    }
+    public static final int[] getTermRange() {
+        return termRange;
+    }
+    private static void printf(String formatString, Object... args) {
+        try {
+            if (console != null) {
+                console.printf(formatString, args);
+            }
+            else {
+                System.out.println(String.format(formatString,args));
+            }
+        }
+        catch (IllegalFormatException e) { 
+            System.err.print("Error printing...\n");
+        }
+    }
+    private static void print(String s) {
+        printf("%s", s);
+    }
+    private static String readLine(String userPrompt) throws
+    IOException {
+        String line = "";
+        if (console != null) {
+            line = console.readLine(userPrompt);
+        }
+        else {
+            // print("console is null\n");
+            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+            print(userPrompt);
+            line = bufferedReader.readLine();
+        }
+        line.trim();
+        return line;
+    }
+    //
+    public static void main(String [] args) {
+        String[] userPrompts = {"Please enter the amount you would like to borrow: ","Please enter the annual percentage rate used to repay the loan: ","Please enter the term, in years, over which the loan is repaid: "};
+        String line = "";
+        double amount = 0;
+        double apr = 0;
+        int years = 0;
+        
+        for (int i = 0; i< userPrompts.length; ) {
+            String userPrompt = userPrompts[i];
+            try {
+                line = readLine(userPrompt);
+            }
+            catch (IOException e) {
+                print("An IOException was encountered. Terminating program.\n");
+                return;
+            }
+            boolean isValidValue = true;
+            try {
+                switch (i) {
+                    case 0:
+                    amount = Double.parseDouble(line);
+                    if (isValidBorrowAmount(amount) == false)
+                    {
+                        isValidValue = false;
+                        double range[] =
+                        getBorrowAmountRange();
+                        print("Please enter a positive value between " + range[0] + " and " + range[1] + ". ");
+                    }
+                    break;
+                    case 1:
+                    apr = Double.parseDouble(line);
+                    if (isValidAPRValue(apr) == false) {
+                        isValidValue = false;
+                        double range[] = getAPRRange();
+                        print("Please enter a positive value between " + range[0] + " and " + range[1] + ". ");
+                    }
+                    break;
+                    case 2:
+                    years = Integer.parseInt(line);
+                    if (isValidTerm(years) == false) {
+                        isValidValue = false;
+                        int range[] = getTermRange();
+                        print("Please enter a positive integer value between " + range[0] + " and " + range[1] + ". ");
+                    }
+                    break;
+                }
+            }
+            catch (NumberFormatException e) {
+                isValidValue = false;
+            }
+            if (isValidValue) {
+                i++;
+            }
+            else {
+                print("An invalid value was entered.\n");
+            }
+        }
+        
+        try {
+;
+            HelloWorld as = new HelloWorld(amount, apr, years);
+          
+            as.outputAmortizationSchedule();
+        }
+        catch (IllegalArgumentException e) {
+            print("Unable to process the values entered. Terminating program.\n");
+        }
+    }
+}
